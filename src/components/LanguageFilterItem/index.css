@@ -1,0 +1,25 @@
+.lang-item {
+  list-style-type: none;
+  display: flex;
+  margin-left: 20px;
+}
+.button {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  outline: none;
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+.active-btn {
+  color: #0284c7;
+  font-family: 'Roboto';
+  border: 1px solid #0284c7;
+  border-radius: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 120px;
+}
